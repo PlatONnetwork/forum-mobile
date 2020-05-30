@@ -1,4 +1,4 @@
-# forum-mobile ( forum width android / IOS platform )
+# forum-mobile ( forum with android / IOS platform )
 
 
 ##### 一、android 平台安装
